@@ -1,6 +1,6 @@
 # Seinfeld Memory Card Game
 
-Demo - TBC
+Demo - [https://seinfeld-memory-game.netlify.app](https://seinfeld-memory-game.netlify.app)
 
 ## Description
 
